@@ -58,8 +58,7 @@
     //present results
     for (i=0; i<groupCount; i++)
     {
-    printf("Partia %d ma %d mandatow\n", i+1, mandates[i]);  
-    }  
-     
+    printf("Partia  %d ma %d mandatow\n", i+1, mandates[i]);  
+    }   
     return 0;
     }
