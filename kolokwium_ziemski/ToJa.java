@@ -10,12 +10,12 @@ package toja;
  * @author STUDENT212
  */
 public class ToJa {
-  
+
     public static void main(String[] args) {
         {
     System.out.println("Hello world");
-  
+
     }
-    
+
     }
 }
