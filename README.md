@@ -1,2 +1,3 @@
 # pn1700_ZiemskiBartosz
-Opis
+Opis:
+Projekt stworzony na potrzeby kolokwium z INPG.
